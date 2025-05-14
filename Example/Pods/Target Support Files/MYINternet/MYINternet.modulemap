@@ -1,0 +1,6 @@
+framework module MYINternet {
+  umbrella header "MYINternet-umbrella.h"
+
+  export *
+  module * { export * }
+}
